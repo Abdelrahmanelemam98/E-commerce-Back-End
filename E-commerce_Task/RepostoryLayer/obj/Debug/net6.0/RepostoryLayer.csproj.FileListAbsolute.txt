@@ -1,0 +1,17 @@
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\bin\Debug\net6.0\RepostoryLayer.deps.json
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\bin\Debug\net6.0\RepostoryLayer.runtimeconfig.json
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\bin\Debug\net6.0\RepostoryLayer.dll
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\bin\Debug\net6.0\RepostoryLayer.pdb
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.csproj.AssemblyReference.cache
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.AssemblyInfoInputs.cache
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.AssemblyInfo.cs
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.csproj.CoreCompileInputs.cache
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.csproj.CopyComplete
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.dll
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\refint\RepostoryLayer.dll
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.pdb
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\RepostoryLayer.genruntimeconfig.cache
+D:\Project_Freelance\E-commerce_Task\RepostoryLayer\obj\Debug\net6.0\ref\RepostoryLayer.dll

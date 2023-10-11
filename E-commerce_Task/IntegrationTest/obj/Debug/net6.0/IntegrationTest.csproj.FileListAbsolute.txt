@@ -1,0 +1,7 @@
+D:\Project_Freelance\E-commerce_Task\IntegrationTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Project_Freelance\E-commerce_Task\IntegrationTest\obj\Debug\net6.0\IntegrationTest.csproj.AssemblyReference.cache
+D:\Project_Freelance\E-commerce_Task\IntegrationTest\obj\Debug\net6.0\MvcTestingAppManifest.json
+D:\Project_Freelance\E-commerce_Task\IntegrationTest\obj\Debug\net6.0\IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Freelance\E-commerce_Task\IntegrationTest\obj\Debug\net6.0\IntegrationTest.AssemblyInfoInputs.cache
+D:\Project_Freelance\E-commerce_Task\IntegrationTest\obj\Debug\net6.0\IntegrationTest.AssemblyInfo.cs
+D:\Project_Freelance\E-commerce_Task\IntegrationTest\obj\Debug\net6.0\IntegrationTest.csproj.CoreCompileInputs.cache

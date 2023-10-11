@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "QLJ9+W0nlL+wQgTAfKZwnQtjai6xsJMXPMGauTkEaW4=",
+  "Source": "E-commerce_Task",
+  "BasePath": "_content/E-commerce_Task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E-commerce_Task\\wwwroot",
+      "Source": "E-commerce_Task",
+      "ContentRoot": "D:\\Project_Freelance\\E-commerce_Task\\E-commerce_Task\\wwwroot\\",
+      "BasePath": "_content/E-commerce_Task",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Project_Freelance\\E-commerce_Task\\E-commerce_Task\\wwwroot\\images\\38581ba0-c472-485d-8169-1e03360d3df3_4.webp",
+      "SourceId": "E-commerce_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project_Freelance\\E-commerce_Task\\E-commerce_Task\\wwwroot\\",
+      "BasePath": "_content/E-commerce_Task",
+      "RelativePath": "images/38581ba0-c472-485d-8169-1e03360d3df3_4.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\38581ba0-c472-485d-8169-1e03360d3df3_4.webp"
+    },
+    {
+      "Identity": "D:\\Project_Freelance\\E-commerce_Task\\E-commerce_Task\\wwwroot\\uploads\\3ffc7861-5c36-48ab-b294-4fc33ae0bd02_6.webp",
+      "SourceId": "E-commerce_Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project_Freelance\\E-commerce_Task\\E-commerce_Task\\wwwroot\\",
+      "BasePath": "_content/E-commerce_Task",
+      "RelativePath": "uploads/3ffc7861-5c36-48ab-b294-4fc33ae0bd02_6.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3ffc7861-5c36-48ab-b294-4fc33ae0bd02_6.webp"
+    }
+  ]
+}
